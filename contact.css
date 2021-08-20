@@ -1,0 +1,83 @@
+
+h2{
+    text-align: center;
+    color: #727c8b;    
+
+}
+input textarea{
+    width: 50%;
+    text-align: center;
+    color: #3bbedb ;
+}
+input :focus{
+    border-color: #3bbedb;
+    outline: 0;
+    box-shadow: none;
+}
+form{
+    
+    text-align: center;
+}
+.form h1{
+    text-align: center;
+    margin: auto;
+}
+.btn1{
+    border-radius: 25px;
+    padding: 8px 24px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #8f9bad;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ebebeb;
+    box-shadow: none;
+}
+.btn1:focus{
+    border-color: #3bbedb;
+    outline: 0;
+    box-shadow: none;
+}
+.btn1:hover{
+    border-color: #3bbedb;
+    color: #3bbedb;
+}
+.btn2:hover{
+    border-color: #3bbedb;
+    color: #3bbedb;
+}
+.btn2{
+    border-radius: 25px;
+    padding: 8px 24px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #8f9bad;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ebebeb;
+    box-shadow: none;
+}
+.btn2:focus{
+    border-color: #3bbedb;
+    outline: 0;
+    box-shadow: none;
+}
+.box{
+    border-radius: 25px;
+    padding: 8px 24px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #8f9bad;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ebebeb;
+    box-shadow: none;
+}
+.box:focus{
+    border-color: #3bbedb;
+    outline: 0;
+    box-shadow: none;
+}
+label {
+    display: inherit;
+}
